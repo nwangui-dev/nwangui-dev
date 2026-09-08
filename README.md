@@ -1,8 +1,8 @@
-# Hi there 👋
+# # Greetings, Architects/Innovators & Problem Solvers! 🛠️
 
 <p align="left">
-  I am a Full Stack Software Engineer specializing in building resilient, high-throughput distributed systems. I focus on the intersection of robust backend architecture and actionable data insights, currently driving enterprise-grade network management and telecom solutions.
-</p>
+
+I’m a Software Engineer dedicated to crafting scalable RESTful services and robust infrastructure solutions. I specialize in building reliable, low-latency backend systems that power modern digital experiences.</p>
 
 ---
 
