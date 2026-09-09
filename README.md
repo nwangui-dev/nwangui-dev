@@ -6,7 +6,7 @@ I’m a Software Engineer dedicated to crafting scalable RESTful services and ro
 
 ---
 
-### 🚀 Technologies & Tools
+### 🚀 Technologies & Toolss
 
 | Category | Technology / Tool |
 | :--- | :--- |
