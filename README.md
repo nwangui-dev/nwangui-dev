@@ -4,7 +4,7 @@
 
 I am a Full Stack Software Engineer specializing in building resilient, high-throughput distributed systems and integrating AI-driven capabilities into modern software applications. I focus on the intersection of robust backend architecture, machine learning workflows, and enterprise-grade network management solutions.
 
-Driven by solving complex engineering problems, I craft fault-tolerant RESTful services, optimize low-latency database queries, and leverage AI/ML tools to engineer intelligent, scalable infrastructure . </p>
+Driven by solving complex engineering problems, I craft fault-tolerant RESTful services, optimize low-latency database queries, and leverage AI/ML tools to engineer intelligent, scalable infrastructure. </p>
 
 ---
 
